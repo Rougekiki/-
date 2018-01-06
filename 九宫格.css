@@ -1,0 +1,11 @@
+div.box>div
+{
+	background-color: yellow;
+	width: 30%;
+	padding-bottom: 30%;
+	margin:1%;
+	float: left;
+	border-radius: 10px;
+
+}
+    
